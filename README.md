@@ -1,2 +1,2 @@
-# espiral-infinita
+# Espiral-Infinita
 Espiral infinita usando JS

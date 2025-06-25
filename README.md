@@ -25,3 +25,5 @@ Este proyecto es una animación interactiva de un espiral que rota, pulsa y camb
 git clone https://github.com/lbautistab/espiral-infinita.git
 cd espiral-infinita
 start index.html   # o abre el archivo con tu navegador
+
+![espiral](https://github.com/user-attachments/assets/47a18cb9-cd0f-4551-ab7c-330e3bf371f4)
